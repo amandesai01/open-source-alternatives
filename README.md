@@ -365,6 +365,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Ghostfolio](https://github.com/ghostfolio/ghostfolio)|[Ghostfol.io](https://ghostfol.io)|<a href=https://github.com/ghostfolio/ghostfolio><img src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat" width=100/></a>
+[Protowallet](https://github.com/unproducts/protowallet)|[Protowallet.xyz](https://app.protowallet.xyz)|<a href=https://github.com/unproducts/protowallet><img src="https://img.shields.io/github/stars/unproducts/protowallet?style=flat" width=100/></a>
 
 ### CRM (Salesforce, Hubspot alternatives):
 |Company|Website|GitHub stars|
